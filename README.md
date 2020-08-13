@@ -1,0 +1,1 @@
+# js-quote-generator
